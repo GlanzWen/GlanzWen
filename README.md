@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlanzWen/GlanzWen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
+</picture>  
+
 为什么重复造轮子?  
   有的人说, 再写一个mybatis, 再写一个spring, 有什么用呢?  
   好像是没有，但是日复一日的业务代码，更不会有很大的提升， 自己造的轮子，其他人很久之前已经做过了，而且在绝大部分地方，人家的轮子又快又圆，那还要造吗?  
@@ -9,10 +15,6 @@
   不再是让用户去手动的创建这种服务，而是封装在框架中，通过可见的几个接口对外提供相应的服务。  
   我想不到什么可以快速提升实力， 只能是在模仿中学习，提升，去发现市面上的框架有什么问题，如果是我的话，我会怎么解决。提供服务的方法很多，为什么他选择了建造者+工厂?  
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlanzWen/GlanzWen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HuiDBK/HuiDBK/output/github-contribution-grid-snake.svg" />
-</picture>  
+
 
 
